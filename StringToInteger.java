@@ -1,5 +1,6 @@
 public class Solution {
 
+
     public int myAtoi(String str) {
 
         if(str==null||str.length()<1)
